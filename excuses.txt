@@ -1,0 +1,10 @@
+The problem seems to be with our legacy software
+Nobody has ever complained about it
+Well at least we know not to try that again
+It's just some unlucky coincidence
+That's interesting, how did you manage to make it do that?
+That worked perfectly when I developed it
+It's a known bug with the server software
+It's a remote vendor issue
+I was just fixing that
+I did a quick fix last time but it broke when we rebooted
