@@ -12,3 +12,4 @@ I can't test everything
 Well, that's a first
 Somebody must have changed my code
 The third party documentation doesn't exist
+The unit test doesn't cover that eventuality
