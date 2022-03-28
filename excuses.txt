@@ -15,3 +15,6 @@ The third party documentation doesn't exist
 The unit test doesn't cover that eventuality
 It works for me
 The specifications were ambiguous
+You're doing it wrong
+Our internet connection must not be working
+I must have been stress testing our production server
