@@ -14,3 +14,4 @@ Somebody must have changed my code
 The third party documentation doesn't exist
 The unit test doesn't cover that eventuality
 It works for me
+The specifications were ambiguous
