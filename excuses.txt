@@ -18,3 +18,4 @@ The specifications were ambiguous
 You're doing it wrong
 Our internet connection must not be working
 I must have been stress testing our production server
+That's the fault of the graphic designer
