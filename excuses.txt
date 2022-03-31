@@ -33,3 +33,4 @@ Oh, that was only supposed to be a placeholder
 How is that possible?
 What did you type in wrong to get it to crash?
 I'm not getting any error codes
+Management insisted we wouldn't need to waste our time writing unit tests
