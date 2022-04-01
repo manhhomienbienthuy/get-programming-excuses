@@ -37,3 +37,4 @@ Management insisted we wouldn't need to waste our time writing unit tests
 I couldn't find any examples of how that can be done anywhere online
 It's a known bug with the programming language
 The accounting department must have cancelled that subscription
+The program has never collected that information
