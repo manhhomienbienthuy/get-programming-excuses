@@ -41,3 +41,4 @@ The program has never collected that information
 It must be a firewall issue
 You must be missing some of the dependencies
 You must have done something wrong
+Did you check for a virus on your system?
