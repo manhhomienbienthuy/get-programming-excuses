@@ -45,3 +45,4 @@ Did you check for a virus on your system?
 I haven't been able to reproduce that
 Where were you when the program blew up?
 It would take too long to rewrite the code from scratch
+Our code quality is no worse than anyone else in the industry
