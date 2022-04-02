@@ -43,3 +43,4 @@ You must be missing some of the dependencies
 You must have done something wrong
 Did you check for a virus on your system?
 I haven't been able to reproduce that
+Where were you when the program blew up?
