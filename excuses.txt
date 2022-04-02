@@ -47,3 +47,4 @@ Where were you when the program blew up?
 It would take too long to rewrite the code from scratch
 Our code quality is no worse than anyone else in the industry
 I thought I finished that
+It's not a code problem - our users need more training
