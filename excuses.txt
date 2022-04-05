@@ -64,3 +64,4 @@ The third party API is not responding
 That behaviour is in the original specification
 That code was written by the last guy
 I didn't anticipate that I would make any errors
+I thought he knew the context of what I was talking about
