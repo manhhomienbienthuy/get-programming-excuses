@@ -60,3 +60,4 @@ I can have a look but there's a lot of if statements in that code!
 That code seemed so simple I didn't think it needed testing
 No one told me so I was forced to assume which way to do that
 That was literally a one in a million error
+The third party API is not responding
