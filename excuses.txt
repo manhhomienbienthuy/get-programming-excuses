@@ -68,3 +68,4 @@ I thought he knew the context of what I was talking about
 I thought I fixed that
 Nobody asked me how long it would actually take
 This is a previously known bug you told me not to work on yet
+The WYSIWYG must have produced an invalid output
