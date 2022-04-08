@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NUM_TRIALS=3
+NUM_TRIALS=5
 OUTPUT=excuses.txt
 
 n=0
@@ -12,7 +12,7 @@ do
         break
     fi
     n=$((n+1))
-    sleep 30
+    sleep $(( ( RANDOM % 15 )  + 15 ))
 done
 
 git add "$OUTPUT"
