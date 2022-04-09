@@ -80,3 +80,4 @@ Don't worry, that value is only wrong half of the time
 It works, but it's not been tested
 It's never shown unexpected behaviour like this before
 The marketing department made us put that there
+It's a character encoding issue
