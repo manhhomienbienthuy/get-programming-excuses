@@ -82,3 +82,4 @@ It's never shown unexpected behaviour like this before
 The marketing department made us put that there
 It's a character encoding issue
 The download must have been corrupted
+We should have updated our software years ago
