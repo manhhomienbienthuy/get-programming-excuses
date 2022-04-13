@@ -6,6 +6,7 @@ OUTPUT=excuses.txt
 n=0
 until [ $n -ge $NUM_TRIALS ]
 do
+    echo "TRY $n"
     excuse=$(curl http://programmingexcuses.com/ -s | grep -oE "<a.+>.+</a>" | sed -E 's:</?a([^>]*)?>::g')
     if ! grep -q "$excuse" "$OUTPUT"; then
         echo "$excuse" >> "$OUTPUT"
