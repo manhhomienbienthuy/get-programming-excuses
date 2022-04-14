@@ -16,5 +16,6 @@ do
     sleep $(( ( RANDOM % 15 )  + 15 ))
 done
 
+sort "$OUTPUT"
 git add "$OUTPUT"
 (git commit -m "Updated at $(date -R)" && git push) || echo NONE!
