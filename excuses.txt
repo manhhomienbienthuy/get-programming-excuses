@@ -90,6 +90,7 @@ The code is compiling
 The download must have been corrupted
 The existing design makes it difficult to do the right thing
 The marketing department made us put that there
+The original specification contained conflicting requirements
 The problem seems to be with our legacy software
 The program has never collected that information
 The project manager said no one would want that feature
