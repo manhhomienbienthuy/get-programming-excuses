@@ -8,6 +8,7 @@ I can have a look but there's a lot of if statements in that code!
 I can't make that a priority right now
 I can't test everything
 I couldn't find any examples of how that can be done anywhere online
+I couldn't find any library that can even do that
 I did a quick fix last time but it broke when we rebooted
 I didn't anticipate that I would make any errors
 I didn't create that part of the program
