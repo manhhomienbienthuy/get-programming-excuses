@@ -81,6 +81,7 @@ That worked perfectly when I developed it
 That wouldn't be economically feasible
 That's already fixed it just hasn't taken effect yet
 That's interesting, how did you manage to make it do that?
+That's not a bug it's a configuration issue
 That's the fault of the graphic designer
 The WYSIWYG must have produced an invalid output
 The accounting department must have cancelled that subscription
