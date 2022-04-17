@@ -101,6 +101,7 @@ The third party API is not responding
 The third party documentation doesn't exist
 The third party documentation is wrong
 The unit test doesn't cover that eventuality
+There was too little data to bother with the extra functionality at the time
 There's currently a problem with our hosting company
 This is a previously known bug you told me not to work on yet
 We didn't have enough time to peer review the final changes
