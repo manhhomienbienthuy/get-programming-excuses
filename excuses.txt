@@ -113,6 +113,7 @@ We didn't have enough time to peer review the final changes
 We should have updated our software years ago
 Well at least we know not to try that again
 Well done, you found my easter egg!
+Well, at least it displays a very pretty error
 Well, that's a first
 What did I tell you about using parts of the system you don't understand?
 What did you type in wrong to get it to crash?
