@@ -33,6 +33,7 @@ I was told to stop working on that when something important came up
 I'll have to fix that at a later date
 I'm not familiar with it so I didn't fix it in case I made it worse
 I'm not getting any error codes
+I'm not sure as I've never had a look at how that works before
 I'm still working on that as we speak
 I'm surprised it works as well as it does
 I'm surprised that was working at all
