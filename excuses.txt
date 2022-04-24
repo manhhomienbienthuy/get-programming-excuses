@@ -39,6 +39,7 @@ I'm not sure as I've never had a look at how that works before
 I'm still working on that as we speak
 I'm surprised it works as well as it does
 I'm surprised that was working at all
+In the interest of efficiency I only check my email for that on a Friday
 It can't be broken, it passes all unit tests
 It must be a firewall issue
 It must be a hardware problem
