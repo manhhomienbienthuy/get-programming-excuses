@@ -124,6 +124,7 @@ There's currently a problem with our hosting company
 This code was not supposed to go in to production yet
 This is a previously known bug you told me not to work on yet
 We didn't have enough time to peer review the final changes
+We outsourced that months ago
 We should have updated our software years ago
 We spent three months debugging it because we only had one month to build it
 Well at least we know not to try that again
